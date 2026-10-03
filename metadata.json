@@ -1,0 +1,6 @@
+{
+  "name": "piseth.design - Creative Design Academy",
+  "description": "Modern online learning platform for Cambodian graphic designers, UX/UI, and motion artists led by university teacher Piseth Yoeurn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
